@@ -1,18 +1,18 @@
-# CALI — AI Chatbot 🤖
+# CALI — AI Chatbot 
 
 A smart rule-based chatbot with NLP pattern matching, dark Swing GUI, and conversation history.
 
 ## Features
-- ✅ Beautiful dark-themed Swing GUI
-- ✅ NLP engine with regex pattern matching (30+ intents)
-- ✅ Math calculations (add, subtract, multiply, divide)
-- ✅ Java/OOP Q&A knowledge base
-- ✅ Typing animation with response delay
-- ✅ Conversation history with timestamps
-- ✅ Save chat to file
-- ✅ Console mode (fallback)
-- ✅ Random response variation (not always same answer)
-- ✅ Name memory (remembers your name in conversation)
+-  Beautiful dark-themed Swing GUI
+-  NLP engine with regex pattern matching (30+ intents)
+-  Math calculations (add, subtract, multiply, divide)
+-  Java/OOP Q&A knowledge base
+-  Typing animation with response delay
+-  Conversation history with timestamps
+-  Save chat to file
+-  Console mode (fallback)
+-  Random response variation (not always same answer)
+-  Name memory (remembers your name in conversation)
 
 ## How to Run
 
